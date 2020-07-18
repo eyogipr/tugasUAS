@@ -76,6 +76,11 @@
             android:layout_marginRight="3dp"
             app:cardElevation="0dp"
             app:cardCornerRadius="8dp">
+            <Button
+                android:id="@+id/btn_kiblat"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#00FFFFFF"/>
 
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -116,6 +121,11 @@
             android:layout_marginRight="3dp"
             app:cardElevation="0dp"
             app:cardCornerRadius="8dp">
+            <Button
+                android:id="@+id/btn_jadwal_imsak"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#00FFFFFF"/>
 
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -156,6 +166,11 @@
             android:layout_marginRight="3dp"
             app:cardElevation="0dp"
             app:cardCornerRadius="8dp">
+            <Button
+                android:id="@+id/btn_sholat"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#00FFFFFF"/>
 
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -196,6 +211,11 @@
             android:layout_marginRight="3dp"
             app:cardElevation="0dp"
             app:cardCornerRadius="8dp">
+            <Button
+                android:id="@+id/btn_kajian"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#00FFFFFF"/>
 
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -236,6 +256,11 @@
             android:layout_marginRight="3dp"
             app:cardElevation="0dp"
             app:cardCornerRadius="8dp">
+            <Button
+                android:id="@+id/btn_alquran"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#00FFFFFF"/>
 
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -276,6 +301,11 @@
             android:layout_marginRight="3dp"
             app:cardElevation="0dp"
             app:cardCornerRadius="8dp">
+            <Button
+                android:id="@+id/btn_sholawat"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#00FFFFFF"/>
 
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -317,6 +347,12 @@
             app:cardElevation="0dp"
             app:cardCornerRadius="8dp">
 
+            <Button
+                android:id="@+id/btn_doa"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#00FFFFFF"/>
+
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -356,6 +392,12 @@
             android:layout_marginRight="3dp"
             app:cardElevation="0dp"
             app:cardCornerRadius="8dp">
+
+            <Button
+                android:id="@+id/btn_lain"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#00FFFFFF"/>
 
             <LinearLayout
                 android:layout_width="wrap_content"

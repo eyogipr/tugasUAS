@@ -3,25 +3,23 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
 
-
-        android:title="@string/home"
+        android:id="@+id/navhome"
         android:icon="@drawable/ic_home_black_24dp"
         />
 
     <item
-
-        android:title="@string/histori"
+        android:id="@+id/navrecent"
         android:icon="@drawable/ic_library_books_black_24dp"
         />
 
     <item
 
-        android:title="@string/favorit"
+        android:id="@+id/navlove"
         android:icon="@drawable/ic_favorite_black_24dp"
         />
     <item
 
-        android:title="@string/lainnya"
+        android:id="@+id/navother"
         android:icon="@drawable/ic_more_vert_black_24dp"
         />
 
